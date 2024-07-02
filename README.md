@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @its-pradeependra
+- 👀 I’m interested in Web Development and to learn New Trend Tech.
+- 🌱 I’m currently learning Backend Development.
+- 💞️ I’m looking to collaborate on Interesting Project -  Let's Discuss with your idea.
+- 📫 How to reach me by Linkedin Profile.
+- ⚡ Fun fact: I'm not going to get bored with my job because I enjoy it. (Passion==Job)
